@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/bin/Debug/net6.0/AddValDates
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/bin/Debug/net6.0/AddValDates.deps.json
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/bin/Debug/net6.0/AddValDates.runtimeconfig.json
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/bin/Debug/net6.0/AddValDates.dll
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/bin/Debug/net6.0/AddValDates.pdb
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/AddValDates.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/AddValDates.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/AddValDates.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/AddValDates.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/AddValDates.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/AddValDates.dll
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/refint/AddValDates.dll
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/AddValDates.pdb
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/AddValDates.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/FirstProject/AddValDates/obj/Debug/net6.0/ref/AddValDates.dll

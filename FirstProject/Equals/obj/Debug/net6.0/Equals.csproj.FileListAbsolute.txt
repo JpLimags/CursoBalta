@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/FirstProject/Equals/bin/Debug/net6.0/Equals
+/home/joaopedro/RiderProjects/FirstProject/Equals/bin/Debug/net6.0/Equals.deps.json
+/home/joaopedro/RiderProjects/FirstProject/Equals/bin/Debug/net6.0/Equals.runtimeconfig.json
+/home/joaopedro/RiderProjects/FirstProject/Equals/bin/Debug/net6.0/Equals.dll
+/home/joaopedro/RiderProjects/FirstProject/Equals/bin/Debug/net6.0/Equals.pdb
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/Equals.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/Equals.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/Equals.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/Equals.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/Equals.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/Equals.dll
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/refint/Equals.dll
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/Equals.pdb
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/Equals.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/FirstProject/Equals/obj/Debug/net6.0/ref/Equals.dll

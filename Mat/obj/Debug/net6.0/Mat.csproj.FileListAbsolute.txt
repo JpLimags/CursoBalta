@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/FirstProject/Mat/bin/Debug/net6.0/Mat
+/home/joaopedro/RiderProjects/FirstProject/Mat/bin/Debug/net6.0/Mat.deps.json
+/home/joaopedro/RiderProjects/FirstProject/Mat/bin/Debug/net6.0/Mat.runtimeconfig.json
+/home/joaopedro/RiderProjects/FirstProject/Mat/bin/Debug/net6.0/Mat.dll
+/home/joaopedro/RiderProjects/FirstProject/Mat/bin/Debug/net6.0/Mat.pdb
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/Mat.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/Mat.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/Mat.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/Mat.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/Mat.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/Mat.dll
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/refint/Mat.dll
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/Mat.pdb
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/Mat.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/FirstProject/Mat/obj/Debug/net6.0/ref/Mat.dll

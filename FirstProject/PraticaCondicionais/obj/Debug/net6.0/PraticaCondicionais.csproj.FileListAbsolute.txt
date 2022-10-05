@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/bin/Debug/net6.0/PraticaCondicionais
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/bin/Debug/net6.0/PraticaCondicionais.deps.json
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/bin/Debug/net6.0/PraticaCondicionais.runtimeconfig.json
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/bin/Debug/net6.0/PraticaCondicionais.dll
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/bin/Debug/net6.0/PraticaCondicionais.pdb
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/PraticaCondicionais.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/PraticaCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/PraticaCondicionais.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/PraticaCondicionais.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/PraticaCondicionais.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/PraticaCondicionais.dll
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/refint/PraticaCondicionais.dll
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/PraticaCondicionais.pdb
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/PraticaCondicionais.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/FirstProject/PraticaCondicionais/obj/Debug/net6.0/ref/PraticaCondicionais.dll

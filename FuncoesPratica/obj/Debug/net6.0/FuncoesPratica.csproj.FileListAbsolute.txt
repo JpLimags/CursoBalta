@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/bin/Debug/net6.0/FuncoesPratica
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/bin/Debug/net6.0/FuncoesPratica.deps.json
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/bin/Debug/net6.0/FuncoesPratica.runtimeconfig.json
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/bin/Debug/net6.0/FuncoesPratica.dll
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/bin/Debug/net6.0/FuncoesPratica.pdb
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/FuncoesPratica.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/FuncoesPratica.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/FuncoesPratica.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/FuncoesPratica.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/FuncoesPratica.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/FuncoesPratica.dll
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/refint/FuncoesPratica.dll
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/FuncoesPratica.pdb
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/FuncoesPratica.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/FirstProject/FuncoesPratica/obj/Debug/net6.0/ref/FuncoesPratica.dll

@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/FirstProject/Parse/bin/Debug/net6.0/Parse
+/home/joaopedro/RiderProjects/FirstProject/Parse/bin/Debug/net6.0/Parse.deps.json
+/home/joaopedro/RiderProjects/FirstProject/Parse/bin/Debug/net6.0/Parse.runtimeconfig.json
+/home/joaopedro/RiderProjects/FirstProject/Parse/bin/Debug/net6.0/Parse.dll
+/home/joaopedro/RiderProjects/FirstProject/Parse/bin/Debug/net6.0/Parse.pdb
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/Parse.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/Parse.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/Parse.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/Parse.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/Parse.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/Parse.dll
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/refint/Parse.dll
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/Parse.pdb
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/Parse.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/FirstProject/Parse/obj/Debug/net6.0/ref/Parse.dll

@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/bin/Debug/net6.0/ManipulandoStrings
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/bin/Debug/net6.0/ManipulandoStrings.deps.json
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/bin/Debug/net6.0/ManipulandoStrings.runtimeconfig.json
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/bin/Debug/net6.0/ManipulandoStrings.dll
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/bin/Debug/net6.0/ManipulandoStrings.pdb
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/ManipulandoStrings.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/ManipulandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/ManipulandoStrings.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/ManipulandoStrings.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/ManipulandoStrings.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/ManipulandoStrings.dll
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/refint/ManipulandoStrings.dll
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/ManipulandoStrings.pdb
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/ManipulandoStrings.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/FirstProject/ManipulandoStrings/obj/Debug/net6.0/ref/ManipulandoStrings.dll

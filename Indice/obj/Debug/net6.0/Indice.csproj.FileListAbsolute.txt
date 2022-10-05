@@ -1,0 +1,15 @@
+/home/joaopedro/RiderProjects/FirstProject/Indice/bin/Debug/net6.0/Indice
+/home/joaopedro/RiderProjects/FirstProject/Indice/bin/Debug/net6.0/Indice.deps.json
+/home/joaopedro/RiderProjects/FirstProject/Indice/bin/Debug/net6.0/Indice.runtimeconfig.json
+/home/joaopedro/RiderProjects/FirstProject/Indice/bin/Debug/net6.0/Indice.dll
+/home/joaopedro/RiderProjects/FirstProject/Indice/bin/Debug/net6.0/Indice.pdb
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/Indice.csproj.AssemblyReference.cache
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/Indice.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/Indice.AssemblyInfoInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/Indice.AssemblyInfo.cs
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/Indice.csproj.CoreCompileInputs.cache
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/Indice.dll
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/refint/Indice.dll
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/Indice.pdb
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/Indice.genruntimeconfig.cache
+/home/joaopedro/RiderProjects/FirstProject/Indice/obj/Debug/net6.0/ref/Indice.dll
